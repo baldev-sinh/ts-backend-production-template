@@ -46,6 +46,7 @@
         "express": "^5.1.0",
         "mongoose": "^8.16.5",
         "source-map-support": "^0.5.21",
-        "winston": "^3.17.0"
+        "winston": "^3.17.0",
+        "winston-mongodb": "^7.0.0"
     }
 }
